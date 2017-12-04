@@ -1,4 +1,4 @@
-@media screen and (min-width: 980px) {
+@media screen and (max-width: 980px) {
    
 body {
     background-image: url('../images/dust_scratches.png');
@@ -190,7 +190,7 @@ input[type=submit]:hover {
 }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
 
     body {
         background-image: url('../images/dust_scratches.png');
