@@ -111,6 +111,7 @@ li a:hover {
     border-top-color: solid #4aaaa5;
     border-top: 5px solid #4aaaa5;
     margin-right: -190px;
+    overflow: hidden;
 }
 
 input[type=text], select, textarea {
@@ -147,7 +148,7 @@ input[type=submit]:hover {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-color: #ffffff;
     float: left;
-    width: 525px;
+    width: 500px;
     text-align: left; 
     height: 410px;
     border-color: #dddddd;
@@ -277,7 +278,7 @@ li a:hover {
 
 .connect {
     float: left;
-    width: 270px;
+    width: 225px;
     height: 123px;
     background-color: #ffffff;
     color: #4aaaa5;
@@ -302,6 +303,7 @@ li a:hover {
     border-top-color: solid #4aaaa5;
     border-top: 5px solid #4aaaa5;
     margin-right: -190px;
+    overflow: hidden;
 }
 
 input[type=text], select, textarea {
@@ -492,6 +494,7 @@ input[type=submit]:hover {
         color: rgb(185, 185, 185);
         border-top-color: solid #4aaaa5;
         border-top: 5px solid #4aaaa5;
+        overflow: hidden;
         
     }
     
@@ -690,6 +693,7 @@ input[type=submit]:hover {
         border-top-color: solid #4aaaa5;
         border-top: 5px solid #4aaaa5;
         margin-right: -190px;
+        overflow: hidden;
     }
     
     input[type=text], select, textarea {
